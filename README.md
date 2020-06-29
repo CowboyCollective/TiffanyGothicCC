@@ -1,6 +1,6 @@
 Tiffany Gothic CC
 ========
-![Picture](https://raw.githubusercontent.com/CowboyCollective/TiffanyGothicCC/master/sources/References/Title.png)
+![Picture](https://raw.githubusercontent.com/CowboyCollective/TiffanyGothicCC/master/sources/references/Title.png)
 Tiffany Gothic CC is a Tiffany Gothic revival designed by indestructible type* for the Cowboy Collective 
 
 Tiffany Gothic CC is designed and maintained by [Owen Earl](https://ewonrael.github.io/), who is the creator of the font foundry [indestructible type*](http://indestructible-type.github.io) and founding member of the [Cowboy Collective](cowboycollective.cc/).
@@ -13,7 +13,7 @@ indestructible type* is joining the Cowboy Collective by making free and open-so
 
 Special thanks goes out to David M. MacMillan of [Circuitous Root](http://www.circuitousroot.com) for providing high quality reference files to make this revival possible. The digitization process for these letters came with a unique set of challenges, as many of the sharp pointed serifs and other design features do not translate easily to the digital medium. More thought and careful compromises had to be made to communicate the original design as clearly and distraction free as possible.
 
-![Characters](https://raw.githubusercontent.com/CowboyCollective/TiffanyGothicCC/master/sources/References/Specimin.png)
+![Characters](https://raw.githubusercontent.com/CowboyCollective/TiffanyGothicCC/master/sources/references/Specimin.png)
 
 Changelog
 ---------
