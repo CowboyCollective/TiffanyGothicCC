@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I" format="2">
+  <advance width="310"/>
+  <unicode hex="0049"/>
+  <anchor x="155" y="700" name="top"/>
+  <anchor x="155" y="0" name="bottom"/>
+  <anchor x="155" y="0" name="cedilla"/>
+  <outline>
+    <contour>
+      <point x="65" y="5" type="line"/>
+      <point x="245" y="5" type="line"/>
+      <point x="244" y="0" type="line"/>
+      <point x="66" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="65" y="695" type="line"/>
+      <point x="66" y="700" type="line"/>
+      <point x="244" y="700" type="line"/>
+      <point x="245" y="695" type="line"/>
+    </contour>
+    <contour>
+      <point x="210" y="5" type="line"/>
+      <point x="210" y="35" type="line"/>
+      <point x="245" y="5" type="line"/>
+    </contour>
+    <contour>
+      <point x="210" y="665" type="line"/>
+      <point x="210" y="695" type="line"/>
+      <point x="245" y="695" type="line"/>
+    </contour>
+    <contour>
+      <point x="65" y="695" type="line"/>
+      <point x="100" y="695" type="line"/>
+      <point x="100" y="665" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="695" type="line"/>
+      <point x="210" y="695" type="line"/>
+      <point x="210" y="5" type="line"/>
+      <point x="100" y="5" type="line"/>
+    </contour>
+    <contour>
+      <point x="65" y="5" type="line"/>
+      <point x="100" y="35" type="line"/>
+      <point x="100" y="5" type="line"/>
+    </contour>
+  </outline>
+</glyph>
