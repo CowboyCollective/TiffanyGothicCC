@@ -1,0 +1,25 @@
+FONTLOG for Copperplate CC
+==========================
+
+This file includes information about the Tiffany Gothic CC typeface by indestructible type* for the Cowboy Collective.
+
+
+About
+-----
+
+In 1901 American Type Founders started listing *Tiffany Gothic*, a font whos origins likely date back to the 1880s. By 1912 ATF had changed the name to *Typo Gothic*, and by the mid century, the letters stopped appearing altogether. This typeface has a lot in common with its more famous relative, *Copperplate Gothic*, yet *Tiffany* shares none of the fame nor glory. In fact, to my knowledge, until this point, there has yet to be a digital revival of *Tiffany Gothic*.
+
+indestructible type* is joining the Cowboy Collective by making free and open-source digital revivals of classic American typefaces. *Tiffany Gothic* is the second instalment in this series. Hopefully this revival will bring new-found interest to this more obscure and forgotten typeface.
+
+Special thanks goes out to David M. MacMillan of [Circuitous Root](http://www.circuitousroot.com) for providing high quality reference files to make this revival possible. The digitization process for these letters came with a unique set of challenges, as many of the sharp pointed serifs and other design features do not translate easily to the digital medium. More thought and careful compromises had to be made to communicate the original design as clearly and distraction free as possible.
+
+
+
+Changelog
+---------
+=1.0 June 2020=
+Initial release
+
+Contact
+-------
+If you have questions, email me at indestructibletype@gmail.com
