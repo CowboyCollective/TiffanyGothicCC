@@ -20,7 +20,7 @@ Changelog
 <b>1.000</b>
 Initial release<br>
 <b>1.001</b>
-Added alternitive G and made minor tweaks
+Added alternative G and made minor tweaks
 
 Building the Font.
 ---------------------------
