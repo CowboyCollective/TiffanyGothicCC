@@ -17,8 +17,10 @@ Special thanks goes out to David M. MacMillan of [Circuitous Root](http://www.ci
 
 Changelog
 ---------
-<b>1.0</b>
-Initial release
+<b>1.000</b>
+Initial release<br>
+<b>1.001<b>
+Added alternitive G and made minor tweaks
 
 Building the Font.
 ---------------------------

@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1465610489
-ModificationTime: 1593422067
+ModificationTime: 1593591096
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -44,6 +44,7 @@ HheadDOffset: 0
 OS2CapHeight: 700
 OS2XHeight: 460
 OS2Vendor: 'it* '
+Lookup: 3 0 0 "'salt' Stylistic Alternatives in Latin lookup 0" { "'salt' Stylistic Alternatives in Latin lookup 0-1"  } ['salt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 0" { "kerning like they all do" [150,0,6] } ['kern' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -70,7 +71,7 @@ NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 48 16 4
+WinInfo: 65488 16 4
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -86,7 +87,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 314572 157286 104857 482345 1048576 104857 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "cedilla"""  "bottom"""  "top""" 
-BeginChars: 65536 370
+BeginChars: 65546 380
 
 StartChar: H
 Encoding: 72 72 0
@@ -413,50 +414,51 @@ EndChar
 StartChar: G
 Encoding: 71 71 7
 GlifName: G_
-Width: 751
+Width: 771
 VWidth: 0
 Flags: HMW
-AnchorPoint: "cedilla" 400 0 basechar 0
-AnchorPoint: "top" 400 0 entry 0
-AnchorPoint: "bottom" 400 0 basechar 0
-AnchorPoint: "top" 410 700 basechar 0
+AnchorPoint: "cedilla" 410 0 basechar 0
+AnchorPoint: "top" 410 0 entry 0
+AnchorPoint: "bottom" 410 0 basechar 0
+AnchorPoint: "top" 420 700 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-666 410 m 5
- 700 410 l 5
- 701 405 l 5
- 666 375 l 5
- 666 410 l 5
-561 410 m 1
- 561 375 l 1
- 526 405 l 1
- 527 410 l 1
- 561 410 l 1
-561 410 m 257
- 666 410 l 257
- 666 0 l 257
- 661 -2 l 1
- 561 96 l 257
- 561 410 l 257
-546 665 m 1
- 596 705 l 1
- 600 704 l 1
- 651 497 l 1
- 645 493 l 1
- 546 665 l 1
+686 410 m 1
+ 720 410 l 1
+ 721 405 l 1
+ 686 375 l 1
+ 686 410 l 1
+581 410 m 1
+ 581 375 l 1
+ 546 405 l 1
+ 547 410 l 1
+ 581 410 l 1
+581 410 m 257
+ 686 410 l 257
+ 686 0 l 257
+ 681 -2 l 1
+ 581 96 l 257
+ 581 410 l 257
+566 665 m 1
+ 616 705 l 1
+ 620 704 l 1
+ 671 497 l 1
+ 665 493 l 1
+ 566 665 l 1
 160 350 m 0
- 160 212 232 95 400 95 c 0
- 499 95 561 174 590 216 c 1
- 651 123 l 1
- 602 66 522 -10 400 -10 c 0
- 192 -10 50 136 50 350 c 0
- 50 564 202 710 390 710 c 0
- 502 710 576 647 605 625 c 1
- 645 493 l 1
- 586 550 509 605 410 605 c 0
- 242 605 160 498 160 350 c 0
+ 160 212 242 95 400 95 c 0
+ 519 95 581 164 610 216 c 1
+ 671 123 l 1
+ 622 66 532 -10 400 -10 c 4
+ 202 -10 50 136 50 350 c 0
+ 50 564 212 710 400 710 c 0
+ 512 710 596 647 625 625 c 1
+ 665 493 l 1
+ 606 550 519 605 420 605 c 0
+ 252 605 160 498 160 350 c 0
 EndSplineSet
+AlternateSubs2: "'salt' Stylistic Alternatives in Latin lookup 0-1" G.alt
 EndChar
 
 StartChar: T
@@ -1228,46 +1230,46 @@ AnchorPoint: "bottom" 336 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-136 700 m 5
- 183 700 l 5
- 184 695 l 5
- 149 665 l 5
- 136 700 l 5
-45 700 m 5
- 55 658 l 5
- -10 695 l 5
- -9 700 l 5
- 45 700 l 5
-511 700 m 5
- 501 665 l 5
- 466 695 l 5
- 467 700 l 5
- 511 700 l 5
-605 700 m 5
- 659 700 l 5
- 660 695 l 5
- 595 658 l 5
- 605 700 l 5
-391 0 m 5
- 391 35 l 5
- 426 5 l 5
- 425 0 l 5
- 391 0 l 5
-281 0 m 5
- 247 0 l 5
- 246 5 l 5
- 281 35 l 5
- 281 0 l 5
-511 700 m 261
- 629 700 l 261
- 391 247 l 261
- 391 0 l 261
- 281 0 l 261
- 281 246 l 261
- 23 700 l 261
- 141 700 l 261
- 336 345 l 261
- 511 700 l 261
+136 700 m 1
+ 188 700 l 1
+ 189 695 l 1
+ 154 665 l 1
+ 136 700 l 1
+45 700 m 1
+ 55 658 l 1
+ -10 695 l 1
+ -9 700 l 1
+ 45 700 l 1
+506 700 m 5
+ 496 665 l 5
+ 461 695 l 5
+ 462 700 l 5
+ 506 700 l 5
+605 700 m 1
+ 659 700 l 1
+ 660 695 l 1
+ 595 658 l 1
+ 605 700 l 1
+391 0 m 1
+ 391 35 l 1
+ 426 5 l 1
+ 425 0 l 1
+ 391 0 l 1
+281 0 m 1
+ 247 0 l 1
+ 246 5 l 1
+ 281 35 l 1
+ 281 0 l 1
+506 700 m 261
+ 629 700 l 257
+ 391 247 l 257
+ 391 0 l 257
+ 281 0 l 257
+ 281 246 l 257
+ 23 700 l 257
+ 146 700 l 257
+ 336 345 l 257
+ 506 700 l 261
 EndSplineSet
 EndChar
 
@@ -1584,12 +1586,13 @@ EndChar
 StartChar: g
 Encoding: 103 103 41
 GlifName: g
-Width: 751
+Width: 771
 VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
 Refer: 7 71 N 1 0 0 1 0 0 2
+AlternateSubs2: "'salt' Stylistic Alternatives in Latin lookup 0-1" g.alt
 EndChar
 
 StartChar: f
@@ -3084,7 +3087,7 @@ Flags: HW
 LayerCount: 2
 EndChar
 
-StartChar: uni2010
+StartChar: hyphentwo
 Encoding: 8208 8208 97
 GlifName: uni2010
 Width: 320
@@ -3100,7 +3103,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2011
+StartChar: hyphennobreak
 Encoding: 8209 8209 98
 GlifName: uni2011
 Width: 320
@@ -3164,7 +3167,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2015
+StartChar: horizontalbar
 Encoding: 8213 8213 102
 GlifName: uni2015
 Width: 901
@@ -3327,7 +3330,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2031
+StartChar: pertenthousand
 Encoding: 8241 8241 110
 GlifName: uni2031
 Width: 1733
@@ -3673,7 +3676,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni00A0
+StartChar: nbspace
 Encoding: 160 160 120
 GlifName: uni00A_0
 Width: 400
@@ -3892,7 +3895,7 @@ Fore
 Refer: 155 180 N 0.85 0 0 0.85 -270 333 2
 EndChar
 
-StartChar: uni0302
+StartChar: circumflexcmb
 Encoding: 770 770 133
 GlifName: uni0302
 Width: 0
@@ -3913,7 +3916,7 @@ Fore
 Refer: 129 732 S 1 0 0 1 -224 0 2
 EndChar
 
-StartChar: uni0304
+StartChar: macroncmb
 Encoding: 772 772 135
 GlifName: uni0304
 Width: 0
@@ -3930,7 +3933,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0311
+StartChar: breveinvertedcmb
 Encoding: 785 785 136
 GlifName: uni0311
 Width: 0
@@ -3942,7 +3945,7 @@ Fore
 Refer: 125 728 S -1 0 0 -1 141 1809 2
 EndChar
 
-StartChar: uni0312
+StartChar: commaturnedabovecmb
 Encoding: 786 786 137
 GlifName: uni0312
 Width: 0
@@ -3953,7 +3956,7 @@ Fore
 Refer: 55 44 N -0.8 0 0 -0.8 86 926 2
 EndChar
 
-StartChar: uni0306
+StartChar: brevecmb
 Encoding: 774 774 138
 GlifName: uni0306
 Width: 0
@@ -3964,7 +3967,7 @@ Fore
 Refer: 125 728 N 1 0 0 1 -140 0 2
 EndChar
 
-StartChar: uni0307
+StartChar: dotaccentcmb
 Encoding: 775 775 139
 GlifName: uni0307
 Width: 0
@@ -3980,7 +3983,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni0308
+StartChar: dieresiscmb
 Encoding: 776 776 140
 GlifName: uni0308
 Width: 0
@@ -3990,7 +3993,7 @@ Fore
 Refer: 144 168 N 1 0 0 1 -198 0 2
 EndChar
 
-StartChar: uni030A
+StartChar: ringcmb
 Encoding: 778 778 141
 GlifName: uni030A_
 Width: 0
@@ -4001,7 +4004,7 @@ Fore
 Refer: 127 730 N 1 0 0 1 -160 0 2
 EndChar
 
-StartChar: uni030B
+StartChar: hungarumlautcmb
 Encoding: 779 779 142
 GlifName: uni030B_
 Width: 0
@@ -4011,7 +4014,7 @@ Fore
 Refer: 130 733 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: uni030C
+StartChar: caroncmb
 Encoding: 780 780 143
 GlifName: uni030C_
 Width: 0
@@ -4043,7 +4046,7 @@ Fore
 Refer: 54 46 S 1 0 0 1 0 350 2
 EndChar
 
-StartChar: uni0326
+StartChar: commasubnosp
 Encoding: 806 806 146
 GlifName: uni0326
 Width: 0
@@ -4054,7 +4057,7 @@ Fore
 Refer: 55 44 S 0.8 0 0 0.8 -111 -186 2
 EndChar
 
-StartChar: uni0327
+StartChar: cedillacmb
 Encoding: 807 807 147
 GlifName: uni0327
 Width: 0
@@ -4064,7 +4067,7 @@ Fore
 Refer: 149 184 S 1 0 0 1 -275 0 2
 EndChar
 
-StartChar: uni0328
+StartChar: ogonekcmb
 Encoding: 808 808 148
 GlifName: uni0328
 Width: 549
@@ -4115,7 +4118,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni00AD
+StartChar: sfthyphen
 Encoding: 173 173 151
 GlifName: uni00A_D_
 Width: 290
@@ -4349,7 +4352,7 @@ EndSplineSet
 Refer: 10 68 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: uni00B2
+StartChar: twosuperior
 Encoding: 178 178 170
 GlifName: uni00B_2
 Width: 469
@@ -4360,7 +4363,7 @@ Fore
 Refer: 67 50 S 0.6 0 0 0.6 26 457 2
 EndChar
 
-StartChar: uni00B3
+StartChar: threesuperior
 Encoding: 179 179 171
 GlifName: uni00B_3
 Width: 459
@@ -4609,7 +4612,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni00B9
+StartChar: onesuperior
 Encoding: 185 185 180
 GlifName: uni00B_9
 Width: 529
@@ -4620,7 +4623,7 @@ Fore
 Refer: 66 49 N 0.6 0 0 0.6 107 456 2
 EndChar
 
-StartChar: uni1E9E
+StartChar: Eszett
 Encoding: 7838 7838 181
 GlifName: uni1E_9E_
 Width: 861
@@ -5488,93 +5491,101 @@ EndChar
 StartChar: Gcircumflex
 Encoding: 284 284 250
 GlifName: G_circumflex
-Width: 751
+Width: 771
 VWidth: 0
 Flags: HW
 LayerCount: 2
 Fore
 Refer: 123 710 N 1 0 0 1 218 0 2
 Refer: 7 71 N 1 0 0 1 0 0 3
+AlternateSubs2: "'salt' Stylistic Alternatives in Latin lookup 0-1" Gcircumflex.alt
 EndChar
 
 StartChar: gcircumflex
 Encoding: 285 285 251
 GlifName: gcircumflex
-Width: 751
+Width: 771
 VWidth: 0
 Flags: HW
 LayerCount: 2
 Fore
 Refer: 250 284 N 1 0 0 1 0 0 2
+AlternateSubs2: "'salt' Stylistic Alternatives in Latin lookup 0-1" gcircumflex.alt
 EndChar
 
 StartChar: Gbreve
 Encoding: 286 286 252
 GlifName: G_breve
-Width: 751
+Width: 771
 VWidth: 0
 Flags: HW
 LayerCount: 2
 Fore
 Refer: 125 728 N 1 0 0 1 270 0 2
 Refer: 7 71 N 1 0 0 1 0 0 3
+AlternateSubs2: "'salt' Stylistic Alternatives in Latin lookup 0-1" Gbreve.alt
 EndChar
 
 StartChar: gbreve
 Encoding: 287 287 253
 GlifName: gbreve
-Width: 751
+Width: 771
 VWidth: 0
 Flags: HW
 LayerCount: 2
 Fore
 Refer: 252 286 N 1 0 0 1 0 0 2
+AlternateSubs2: "'salt' Stylistic Alternatives in Latin lookup 0-1" gbreve.alt
 EndChar
 
 StartChar: Gdotaccent
 Encoding: 288 288 254
 GlifName: G_dotaccent
-Width: 751
+Width: 771
 VWidth: 0
 Flags: HW
 LayerCount: 2
 Fore
 Refer: 126 729 N 1 0 0 1 282 0 2
 Refer: 7 71 N 1 0 0 1 0 0 3
+AlternateSubs2: "'salt' Stylistic Alternatives in Latin lookup 0-1" Gdotaccent.alt
 EndChar
 
 StartChar: gdotaccent
 Encoding: 289 289 255
 GlifName: gdotaccent
-Width: 751
+Width: 771
 VWidth: 0
 Flags: HW
 LayerCount: 2
 Fore
 Refer: 254 288 N 1 0 0 1 0 0 2
+AlternateSubs2: "'salt' Stylistic Alternatives in Latin lookup 0-1" gdotaccent.alt
 EndChar
 
-StartChar: uni0122
+StartChar: Gcommaaccent
 Encoding: 290 290 256
 GlifName: uni0122
-Width: 751
+Width: 771
 VWidth: 0
 Flags: HW
 LayerCount: 2
 Fore
 Refer: 146 806 N 1 0 0 1 402 0 2
 Refer: 7 71 N 1 0 0 1 0 0 3
+AlternateSubs2: "'salt' Stylistic Alternatives in Latin lookup 0-1" Gcommaaccent.alt
 EndChar
 
-StartChar: uni0123
+StartChar: gcommaaccent
 Encoding: 291 291 257
 GlifName: uni0123
-Width: 751
+Width: 771
 VWidth: 0
 Flags: HW
 LayerCount: 2
 Fore
 Refer: 256 290 N 1 0 0 1 0 0 2
+AlternateSubs2: "'salt' Stylistic Alternatives in Latin lookup 0-1" gcommaaccent.alt
 EndChar
 
 StartChar: Hcircumflex
@@ -5802,7 +5813,7 @@ Fore
 Refer: 275 313 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: uni013B
+StartChar: Lcommaaccent
 Encoding: 315 315 277
 GlifName: uni013B_
 Width: 670
@@ -5814,7 +5825,7 @@ Refer: 146 806 N 1 0 0 1 405 0 2
 Refer: 9 76 N 1 0 0 1 0 0 3
 EndChar
 
-StartChar: uni013C
+StartChar: lcommaaccent
 Encoding: 316 316 278
 GlifName: uni013C_
 Width: 670
@@ -5924,7 +5935,7 @@ Fore
 Refer: 285 323 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: uni0145
+StartChar: Ncommaaccent
 Encoding: 325 325 287
 GlifName: uni0145
 Width: 776
@@ -5936,7 +5947,7 @@ Refer: 146 806 N 1 0 0 1 394 0 2
 Refer: 17 78 N 1 0 0 1 0 0 3
 EndChar
 
-StartChar: uni0146
+StartChar: ncommaaccent
 Encoding: 326 326 288
 GlifName: uni0146
 Width: 776
@@ -6113,7 +6124,7 @@ Refer: 132 769 N 1 0 0 1 523 0 2
 Refer: 13 82 N 1 0 0 1 0 0 3
 EndChar
 
-StartChar: uni0156
+StartChar: Rcommaaccent
 Encoding: 342 342 299
 GlifName: uni0156
 Width: 733
@@ -6369,7 +6380,7 @@ Fore
 Refer: 298 340 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: uni0157
+StartChar: rcommaaccent
 Encoding: 343 343 316
 GlifName: uni0157
 Width: 733
@@ -6972,7 +6983,7 @@ Refer: 15 77 S 0.36 0 0 0.36 269.6 448 2
 Refer: 8 84 S 0.36 0 0 0.36 16.6 448 2
 EndChar
 
-StartChar: uni2000
+StartChar: enquad
 Encoding: 8192 8192 356
 GlifName: uni2000
 Width: 1000
@@ -6981,7 +6992,7 @@ Flags: HW
 LayerCount: 2
 EndChar
 
-StartChar: uni2001
+StartChar: emquad
 Encoding: 8193 8193 357
 GlifName: uni2001
 Width: 2000
@@ -6990,7 +7001,7 @@ Flags: HW
 LayerCount: 2
 EndChar
 
-StartChar: uni2002
+StartChar: enspace
 Encoding: 8194 8194 358
 GlifName: uni2002
 Width: 1000
@@ -6999,7 +7010,7 @@ Flags: HW
 LayerCount: 2
 EndChar
 
-StartChar: uni2003
+StartChar: emspace
 Encoding: 8195 8195 359
 GlifName: uni2003
 Width: 2000
@@ -7008,7 +7019,7 @@ Flags: HW
 LayerCount: 2
 EndChar
 
-StartChar: uni2004
+StartChar: threeperemspace
 Encoding: 8196 8196 360
 GlifName: uni2004
 Width: 666
@@ -7017,7 +7028,7 @@ Flags: HW
 LayerCount: 2
 EndChar
 
-StartChar: uni2005
+StartChar: fourperemspace
 Encoding: 8197 8197 361
 GlifName: uni2005
 Width: 500
@@ -7026,7 +7037,7 @@ Flags: HW
 LayerCount: 2
 EndChar
 
-StartChar: uni2006
+StartChar: sixperemspace
 Encoding: 8198 8198 362
 GlifName: uni2006
 Width: 333
@@ -7035,7 +7046,7 @@ Flags: HW
 LayerCount: 2
 EndChar
 
-StartChar: uni2007
+StartChar: figurespace
 Encoding: 8199 8199 363
 GlifName: uni2007
 Width: 1160
@@ -7044,7 +7055,7 @@ Flags: HW
 LayerCount: 2
 EndChar
 
-StartChar: uni2008
+StartChar: punctuationspace
 Encoding: 8200 8200 364
 GlifName: uni2008
 Width: 400
@@ -7053,7 +7064,7 @@ Flags: HW
 LayerCount: 2
 EndChar
 
-StartChar: uni2009
+StartChar: thinspace
 Encoding: 8201 8201 365
 GlifName: uni2009
 Width: 333
@@ -7062,7 +7073,7 @@ Flags: HW
 LayerCount: 2
 EndChar
 
-StartChar: uni200A
+StartChar: hairspace
 Encoding: 8202 8202 366
 GlifName: uni200A_
 Width: 200
@@ -7071,7 +7082,7 @@ Flags: HW
 LayerCount: 2
 EndChar
 
-StartChar: uni200B
+StartChar: zerowidthspace
 Encoding: 8203 8203 367
 GlifName: uni200B_
 Width: 0
@@ -7093,7 +7104,7 @@ Refer: 54 46 N 1 0 0 1 600 0 2
 Refer: 54 46 N 1 0 0 1 300 0 2
 EndChar
 
-StartChar: uniF8FF
+StartChar: Cowboy
 Encoding: 63743 63743 369
 GlifName: uniF_8F_F_
 Width: 898
@@ -7183,6 +7194,163 @@ SplineSet
  615 9 615 17 614 26 c 0
  607 120 589 229 578 285 c 1
 EndSplineSet
+EndChar
+
+StartChar: G.alt
+Encoding: 65536 -1 370
+GlifName: G_.alt
+Width: 771
+VWidth: 0
+Flags: HW
+AnchorPoint: "cedilla" 410 0 basechar 0
+AnchorPoint: "top" 410 0 entry 0
+AnchorPoint: "bottom" 410 0 basechar 0
+AnchorPoint: "top" 420 700 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+581 380 m 1
+ 581 280 l 5
+ 423 280 l 5
+ 423 380 l 1
+ 581 380 l 1
+421 380 m 1
+ 559 380 l 1
+ 381 226 l 1
+ 376 231 l 1
+ 421 380 l 1
+686 380 m 1
+ 770 380 l 1
+ 771 375 l 1
+ 686 335 l 1
+ 686 380 l 1
+581 380 m 257
+ 686 380 l 257
+ 686 0 l 257
+ 681 -2 l 1
+ 581 96 l 257
+ 581 380 l 257
+566 665 m 1
+ 616 705 l 1
+ 620 704 l 1
+ 671 497 l 1
+ 665 493 l 1
+ 566 665 l 1
+160 350 m 0
+ 160 212 242 95 400 95 c 0
+ 519 95 581 164 610 216 c 1
+ 671 123 l 1
+ 622 66 532 -10 400 -10 c 0
+ 202 -10 50 136 50 350 c 0
+ 50 564 212 710 400 710 c 0
+ 512 710 596 647 625 625 c 1
+ 665 493 l 1
+ 606 550 519 605 420 605 c 0
+ 252 605 160 498 160 350 c 0
+EndSplineSet
+EndChar
+
+StartChar: g.alt
+Encoding: 65537 -1 371
+GlifName: g.alt
+Width: 771
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 370 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Gcircumflex.alt
+Encoding: 65538 -1 372
+GlifName: G_circumflex.alt
+Width: 771
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+Refer: 123 710 N 1 0 0 1 228 0 2
+Refer: 370 -1 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: gcircumflex.alt
+Encoding: 65539 -1 373
+GlifName: gcircumflex.alt
+Width: 771
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 372 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Gbreve.alt
+Encoding: 65540 -1 374
+GlifName: G_breve.alt
+Width: 771
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+Refer: 125 728 N 1 0 0 1 280 0 2
+Refer: 370 -1 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: gbreve.alt
+Encoding: 65541 -1 375
+GlifName: gbreve.alt
+Width: 771
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 374 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Gdotaccent.alt
+Encoding: 65542 -1 376
+GlifName: G_dotaccent.alt
+Width: 771
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+Refer: 126 729 N 1 0 0 1 292 0 2
+Refer: 370 -1 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: gdotaccent.alt
+Encoding: 65543 -1 377
+GlifName: gdotaccent.alt
+Width: 771
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 376 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Gcommaaccent.alt
+Encoding: 65544 -1 378
+GlifName: G_commaaccent.alt
+Width: 771
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+Refer: 146 806 N 1 0 0 1 412 0 2
+Refer: 370 -1 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: gcommaaccent.alt
+Encoding: 65545 -1 379
+GlifName: gcommaaccent.alt
+Width: 771
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 378 -1 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
